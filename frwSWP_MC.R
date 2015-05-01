@@ -1,3 +1,4 @@
+## Jill added comment
 toInstall <- c("fGarch","zoo")
 lapply(toInstall, require, character.only=T)
 #################################### Utilities #################################### 
